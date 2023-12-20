@@ -1,17 +1,17 @@
-```markdown
+# Swami's Portfolio
 
-![Portfolio Screenshot](./Images/readme-img1.png)
+![Portfolio Screenshot](Images/readme-img1.png)
 
-Welcome to my personal portfolio . This portfolio showcases some of my GitHub projects, my resume, and technical skills.
+Welcome to my personal portfolio! 🚀 This portfolio showcases some of my GitHub projects, my resume, and technical skills.
 
 ## Technologies Used
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+- React.js ⚛️
+- Node.js 🚀
+- Express.js ⚙️
+- CSS3 🎨
+- VsCode 💻
+- Vercel 🌐
 
 ## Features
 
@@ -30,8 +30,8 @@ Make sure you have [Node.js](https://nodejs.org/) and [Git](https://git-scm.com/
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/your-portfolio.git
-cd your-portfolio
+git clone https://github.com/swami1302/Portfolio.git
+cd Portfolio
 npm install
 ```
 
@@ -56,3 +56,4 @@ The portfolio is deployed on [Vercel](https://vercel.com/), providing a fast and
 - This portfolio was built with the help of [React.js](https://reactjs.org/) and [React-Bootstrap](https://react-bootstrap.github.io/).
 - Special thanks to [Vercel](https://vercel.com/) for seamless deployment.
 
+Happy coding! 🚀
