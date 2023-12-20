@@ -1,6 +1,6 @@
-<div align="center">
+
 # Swami's Portfolio
-</div>
+
 
 ![Portfolio Screenshot](./Images/main.jpg)
 <a href="https://swami13.vercel.app/" target="_blank">Live Link</a>
