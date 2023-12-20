@@ -1,6 +1,6 @@
 # Swami's Portfolio
 
-![Portfolio Screenshot](Images/readme_img1.png)
+![Portfolio Screenshot](Images/img1.png)
 
 Welcome to my personal portfolio! 🚀 This portfolio showcases some of my GitHub projects, my resume, and technical skills.
 
