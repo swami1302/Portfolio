@@ -1,8 +1,8 @@
 # Swami's Portfolio
 
-![Portfolio Screenshot](Images/img1.png)
+<a href="https://swami13.vercel.app/" target="_blank">Live Link</a>
 
-Welcome to my personal portfolio! 🚀 This portfolio showcases some of my GitHub projects, my resume, and technical skills.
+Welcome to my portfolio! 🚀 This portfolio showcases some of my GitHub projects, resume, and technical skills.
 
 ## Technologies Used
 
@@ -16,7 +16,7 @@ Welcome to my personal portfolio! 🚀 This portfolio showcases some of my GitHu
 ## Features
 
 - **Multi-Page Layout:** The portfolio has a multi-page layout for a more organized presentation of information.
-- **Styled Components:** Utilizes React-Bootstrap and custom CSS for easy customization of colors and styles.
+- **Styled Components:** Utilizes React-Bootstrap and custom CSS to customise colours and styles easily.
 - **Fully Responsive:** Ensures a seamless experience across various devices.
 
 ## Getting Started
