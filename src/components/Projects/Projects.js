@@ -8,6 +8,9 @@ import BMI from "../../Assets/Projects/BMI.png";
 import tracker from "../../Assets/Projects/Price_tracker.png";
 import scrap from "../../Assets/Projects/scrap_book.png";
 import surveillance from "../../Assets/Projects/surveillance.png";
+import weather from "../../Assets/Projects/Weather.png";
+import netflix from "../../Assets/Projects/Netflix.png";
+import TODO from "../../Assets/Projects/TODO.png";
 
 function Projects() {
   return (
@@ -21,6 +24,39 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={weather}
+              isBlog={false}
+              title="Weather App"
+              description="This is a simple React weather application that allows users to search for weather information by entering a city name."
+              ghLink="https://github.com/swami1302/AmazonPriceTracker"
+              demoLink="https://weather13.vercel.app/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={BMI}
+              isBlog={false}
+              title="BMI Calculator with React and Ant Design"
+              description="A simple Body Mass Index (BMI) calculator built using React and styled with Ant Design components. Easily determine your BMI by entering your weight and height, and receive instant feedback on your health status. A clean and responsive user interface enhances the user experience."
+              ghLink="https://github.com/swami1302/BMI"
+              demoLink="https://checkbmi.vercel.app/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={netflix}
+              isBlog={false}
+              title="Netflix Clone"
+              description="This project is a simplified version of the Netflix homepage, created with HTML, CSS, and JavaScript. It's a work in progress, and additional features and pages are planned for the future."
+              ghLink="https://github.com/swami1302/BMI"
+              demoLink="https://netflix-open.netlify.app/"
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={tracker}
@@ -45,6 +81,17 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={TODO}
+              isBlog={false}
+              title="Todo Application"
+              description="This project is a simple TODO application built with React,Redux and Ant Design."
+              ghLink="https://github.com/swami1302/Smart_Surveillance"
+              demoLink="https://ticktodo.netlify.app/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={AAIDS}
               isBlog={false}
               title="Automated Animal Identification and Detection of Species  (AAIDS)"
@@ -54,16 +101,6 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={BMI}
-              isBlog={false}
-              title="BMI Calculator with React and Ant Design"
-              description="A simple Body Mass Index (BMI) calculator built using React and styled with Ant Design components. Easily determine your BMI by entering your weight and height, and receive instant feedback on your health status. A clean and responsive user interface enhances the user experience."
-              ghLink="https://github.com/swami1302/BMI"
-              // demoLink="https://plant49-ai.herokuapp.com/"
-            />
-          </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
